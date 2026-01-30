@@ -1,8 +1,8 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mohammadoftadeh/next-ecommerce-shopco.git
-   cd next-ecommerce-shopco
+   git clone https://github.com/abhinn14/robocon.git
+   cd robocon
    ```
 
 2. **Install dependencies:**
