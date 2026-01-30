@@ -11,18 +11,10 @@
    npm install
    ```
 
-   ```bash
-   yarn install
-   ```
-
 3. **Run the development server:**
 
    ```bash
    npm run dev
-   ```
-
-   ```bash
-   yarn dev
    ```
 
 4. **Open in your browser:**
