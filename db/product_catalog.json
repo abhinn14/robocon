@@ -1,7 +1,7 @@
 [
   {
     "product_id": "P1001",
-    "product_name": "Luma Monitor Pro",
+    "product_name": "Nova Monitor X",
     "category": "Electronics",
     "price": 43395,
     "stock_available": 13,
@@ -11,13 +11,13 @@
     "discount_percentage": 18,
     "return_eligible": false,
     "delivery_time_days": 11,
-    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800"
+    "image_url": "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1002",
     "product_name": "Luma Monitor",
     "category": "Electronics",
-    "price": 49033,
+    "price": 28999,
     "stock_available": 62,
     "rating": 4.7,
     "review_count": 194,
@@ -25,33 +25,33 @@
     "discount_percentage": 49,
     "return_eligible": true,
     "delivery_time_days": 11,
-    "image_url": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=800"
+    "image_url": "https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1003",
     "product_name": "Zenith Headset Pro",
     "category": "Electronics",
-    "price": 22538,
+    "price": 7999,
     "stock_available": 33,
     "rating": 3.8,
     "review_count": 1360,
     "description": "Designed with intuitive controls and efficient functionality, it enhances your digital experience.",
     "return_eligible": false,
     "delivery_time_days": 10,
-    "image_url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800"
+    "image_url": "https://images.pexels.com/photos/3394664/pexels-photo-3394664.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1004",
     "product_name": "Aero Earbuds Pro",
     "category": "Electronics",
-    "price": 41136,
+    "price": 5999,
     "stock_available": 66,
     "rating": 3.6,
     "review_count": 736,
     "description": "This device delivers reliable performance and modern convenience for everyday use.",
     "return_eligible": false,
     "delivery_time_days": 7,
-    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800"
+    "image_url": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1005",
@@ -64,7 +64,7 @@
     "description": "Offering balanced sound quality and long battery life for entertainment and work.",
     "return_eligible": true,
     "delivery_time_days": 14,
-    "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800"
+    "image_url": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1006",
@@ -77,7 +77,7 @@
     "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
     "return_eligible": false,
     "delivery_time_days": 12,
-    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800"
+    "image_url": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1007",
@@ -90,7 +90,7 @@
     "description": "Combining sleek design with practical features, this gadget is a versatile choice.",
     "return_eligible": false,
     "delivery_time_days": 9,
-    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800"
+    "image_url": "https://images.pexels.com/photos/18104/pexels-photo.jpg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1008",
@@ -103,7 +103,7 @@
     "description": "This device delivers reliable performance and modern convenience for everyday use.",
     "return_eligible": false,
     "delivery_time_days": 7,
-    "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800"
+    "image_url": "https://images.pexels.com/photos/336232/pexels-photo-336232.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1009",
@@ -116,11 +116,11 @@
     "description": "Offering balanced sound quality and long battery life for entertainment and work.",
     "return_eligible": true,
     "delivery_time_days": 4,
-    "image_url": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=800"
+    "image_url": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1010",
-    "product_name": "Pulse Smartwatch Plus",
+    "product_name": "Pulse Smartwatch Core",
     "category": "Electronics",
     "price": 10416,
     "stock_available": 85,
@@ -129,7 +129,7 @@
     "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
     "return_eligible": false,
     "delivery_time_days": 15,
-    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800"
+    "image_url": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1011",
@@ -142,7 +142,7 @@
     "description": "Combining sleek design with practical features, this gadget is a versatile choice.",
     "return_eligible": false,
     "delivery_time_days": 15,
-    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800"
+    "image_url": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1012",
@@ -155,7 +155,7 @@
     "description": "Combining sleek design with practical features, this gadget is a versatile choice.",
     "return_eligible": false,
     "delivery_time_days": 7,
-    "image_url": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?w=800"
+    "image_url": "https://images.pexels.com/photos/3825586/pexels-photo-3825586.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1013",
@@ -168,7 +168,7 @@
     "description": "Designed with intuitive controls and efficient functionality, it enhances your digital experience.",
     "return_eligible": false,
     "delivery_time_days": 11,
-    "image_url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800"
+    "image_url": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1014",
@@ -181,7 +181,7 @@
     "description": "Combining sleek design with practical features, this gadget is a versatile choice.",
     "return_eligible": false,
     "delivery_time_days": 5,
-    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800"
+    "image_url": "https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1015",
@@ -194,7 +194,7 @@
     "description": "This device delivers reliable performance and modern convenience for everyday use.",
     "return_eligible": true,
     "delivery_time_days": 5,
-    "image_url": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=800"
+    "image_url": "https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1016",
@@ -208,7 +208,7 @@
     "discount_percentage": 19,
     "return_eligible": true,
     "delivery_time_days": 7,
-    "image_url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800"
+    "image_url": "https://images.pexels.com/photos/159853/headphones-headset-audio-equipment-159853.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1017",
@@ -221,8 +221,9 @@
     "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
     "return_eligible": true,
     "delivery_time_days": 5,
-    "image_url": "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?w=800"
+    "image_url": "https://images.pexels.com/photos/207583/pexels-photo-207583.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
+[
   {
     "product_id": "P1018",
     "product_name": "Nova Speaker Pro",
@@ -234,7 +235,7 @@
     "description": "Offering balanced sound quality and long battery life for entertainment and work.",
     "return_eligible": true,
     "delivery_time_days": 7,
-    "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800"
+    "image_url": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1019",
@@ -247,7 +248,7 @@
     "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
     "return_eligible": true,
     "delivery_time_days": 10,
-    "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800"
+    "image_url": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1020",
@@ -261,7 +262,7 @@
     "discount_percentage": 32,
     "return_eligible": false,
     "delivery_time_days": 11,
-    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800"
+    "image_url": "https://images.pexels.com/photos/3394664/pexels-photo-3394664.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1021",
@@ -274,7 +275,7 @@
     "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
     "return_eligible": false,
     "delivery_time_days": 4,
-    "image_url": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800"
+    "image_url": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1022",
@@ -287,7 +288,7 @@
     "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
     "return_eligible": true,
     "delivery_time_days": 10,
-    "image_url": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800"
+    "image_url": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1023",
@@ -300,7 +301,7 @@
     "description": "This device delivers reliable performance and modern convenience for everyday use.",
     "return_eligible": false,
     "delivery_time_days": 5,
-    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800"
+    "image_url": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1024",
@@ -313,7 +314,7 @@
     "description": "Designed with intuitive controls and efficient functionality, it enhances your digital experience.",
     "return_eligible": true,
     "delivery_time_days": 13,
-    "image_url": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=800"
+    "image_url": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&fit=crop&w=800&q=80"
   },
   {
     "product_id": "P1025",
@@ -410,7 +411,6 @@
   {
     "product_id": "P1032",
     "product_name": "Breeze Denim Jacket Pro",
-    "category": "Clothing",
     "price": 4822,
     "stock_available": 36,
     "rating": 4.6,
@@ -423,7 +423,6 @@
   {
     "product_id": "P1033",
     "product_name": "Serene T-Shirt Pro",
-    "category": "Clothing",
     "price": 1600,
     "stock_available": 92,
     "rating": 5.0,
@@ -436,7 +435,6 @@
   {
     "product_id": "P1034",
     "product_name": "Vivid Dress Max",
-    "category": "Clothing",
     "price": 1291,
     "stock_available": 10,
     "rating": 3.7,
@@ -450,7 +448,6 @@
   {
     "product_id": "P1035",
     "product_name": "Vivid Dress Pro",
-    "category": "Clothing",
     "price": 948,
     "stock_available": 66,
     "rating": 3.5,
@@ -625,6 +622,7 @@
     "delivery_time_days": 7,
     "image_url": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800"
   },
+
   {
     "product_id": "P1048",
     "product_name": "Nimbus Shirt",
