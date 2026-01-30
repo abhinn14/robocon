@@ -7,7 +7,7 @@
     "stock_available": 13,
     "rating": 3.5,
     "review_count": 1051,
-    "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
+    "description": "Built to deliver dependable performance with crisp visuals for work and entertainment.",
     "discount_percentage": 18,
     "return_eligible": false,
     "delivery_time_days": 11,
@@ -21,7 +21,7 @@
     "stock_available": 62,
     "rating": 4.7,
     "review_count": 194,
-    "description": "Designed with intuitive controls and efficient functionality, it enhances your digital experience.",
+    "description": "Designed with intuitive controls and vibrant display quality to enhance your digital experience.",
     "discount_percentage": 49,
     "return_eligible": true,
     "delivery_time_days": 11,
@@ -35,7 +35,7 @@
     "stock_available": 33,
     "rating": 3.8,
     "review_count": 1360,
-    "description": "Designed with intuitive controls and efficient functionality, it enhances your digital experience.",
+    "description": "Experience immersive audio with a comfortable over-ear design built for long sessions.",
     "return_eligible": false,
     "delivery_time_days": 10,
     "image_url": "https://images.pexels.com/photos/3394664/pexels-photo-3394664.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -48,7 +48,7 @@
     "stock_available": 66,
     "rating": 3.6,
     "review_count": 736,
-    "description": "This device delivers reliable performance and modern convenience for everyday use.",
+    "description": "Compact wireless earbuds delivering reliable sound and everyday convenience.",
     "return_eligible": false,
     "delivery_time_days": 7,
     "image_url": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -61,7 +61,7 @@
     "stock_available": 62,
     "rating": 1.9,
     "review_count": 1402,
-    "description": "Offering balanced sound quality and long battery life for entertainment and work.",
+    "description": "Portable speaker offering balanced sound and dependable battery life.",
     "return_eligible": true,
     "delivery_time_days": 14,
     "image_url": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -70,11 +70,11 @@
     "product_id": "P1006",
     "product_name": "Pulse Smartwatch Plus",
     "category": "Electronics",
-    "price": 33648,
+    "price": 23648,
     "stock_available": 10,
     "rating": 3.7,
     "review_count": 671,
-    "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
+    "description": "Stay connected and track your health metrics with this feature-rich smartwatch.",
     "return_eligible": false,
     "delivery_time_days": 12,
     "image_url": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -83,11 +83,11 @@
     "product_id": "P1007",
     "product_name": "Quanta Laptop Plus",
     "category": "Electronics",
-    "price": 13869,
+    "price": 63869,
     "stock_available": 32,
     "rating": 3.0,
     "review_count": 327,
-    "description": "Combining sleek design with practical features, this gadget is a versatile choice.",
+    "description": "A powerful laptop designed for productivity, multitasking, and smooth performance.",
     "return_eligible": false,
     "delivery_time_days": 9,
     "image_url": "https://images.pexels.com/photos/18104/pexels-photo.jpg?auto=compress&fit=crop&w=800&q=80"
@@ -100,7 +100,7 @@
     "stock_available": 29,
     "rating": 3.8,
     "review_count": 774,
-    "description": "This device delivers reliable performance and modern convenience for everyday use.",
+    "description": "Capture stunning aerial shots with this easy-to-fly lightweight drone.",
     "return_eligible": false,
     "delivery_time_days": 7,
     "image_url": "https://images.pexels.com/photos/336232/pexels-photo-336232.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -113,7 +113,7 @@
     "stock_available": 25,
     "rating": 3.6,
     "review_count": 1289,
-    "description": "Offering balanced sound quality and long battery life for entertainment and work.",
+    "description": "A compact tablet ideal for streaming, reading, and productivity on the go.",
     "return_eligible": true,
     "delivery_time_days": 4,
     "image_url": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -126,7 +126,7 @@
     "stock_available": 85,
     "rating": 2.7,
     "review_count": 727,
-    "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
+    "description": "A streamlined smartwatch delivering essential smart features and fitness tracking.",
     "return_eligible": false,
     "delivery_time_days": 15,
     "image_url": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -135,11 +135,11 @@
     "product_id": "P1011",
     "product_name": "Quanta Laptop",
     "category": "Electronics",
-    "price": 6092,
+    "price": 56092,
     "stock_available": 55,
     "rating": 4.8,
     "review_count": 15,
-    "description": "Combining sleek design with practical features, this gadget is a versatile choice.",
+    "description": "Reliable laptop built for daily computing with efficient performance.",
     "return_eligible": false,
     "delivery_time_days": 15,
     "image_url": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -148,11 +148,11 @@
     "product_id": "P1012",
     "product_name": "Aero Earbuds Mini",
     "category": "Electronics",
-    "price": 19008,
+    "price": 3008,
     "stock_available": 35,
     "rating": 3.9,
     "review_count": 286,
-    "description": "Combining sleek design with practical features, this gadget is a versatile choice.",
+    "description": "Lightweight earbuds perfect for casual listening and daily commutes.",
     "return_eligible": false,
     "delivery_time_days": 7,
     "image_url": "https://images.pexels.com/photos/3825586/pexels-photo-3825586.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -161,11 +161,11 @@
     "product_id": "P1013",
     "product_name": "Vortex Camera Max",
     "category": "Electronics",
-    "price": 28232,
+    "price": 48232,
     "stock_available": 42,
     "rating": 4.9,
     "review_count": 1024,
-    "description": "Designed with intuitive controls and efficient functionality, it enhances your digital experience.",
+    "description": "Capture professional-quality photos with this high-performance camera.",
     "return_eligible": false,
     "delivery_time_days": 11,
     "image_url": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -174,11 +174,11 @@
     "product_id": "P1014",
     "product_name": "Luma Monitor Pro",
     "category": "Electronics",
-    "price": 16086,
+    "price": 36086,
     "stock_available": 8,
     "rating": 3.8,
     "review_count": 733,
-    "description": "Combining sleek design with practical features, this gadget is a versatile choice.",
+    "description": "Premium monitor engineered for clarity, color accuracy, and productivity.",
     "return_eligible": false,
     "delivery_time_days": 5,
     "image_url": "https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -187,11 +187,11 @@
     "product_id": "P1015",
     "product_name": "Nova Speaker Max",
     "category": "Electronics",
-    "price": 40457,
+    "price": 10457,
     "stock_available": 0,
     "rating": 3.4,
     "review_count": 1314,
-    "description": "This device delivers reliable performance and modern convenience for everyday use.",
+    "description": "High-output speaker designed to deliver powerful sound for any setting.",
     "return_eligible": true,
     "delivery_time_days": 5,
     "image_url": "https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -200,11 +200,11 @@
     "product_id": "P1016",
     "product_name": "Zenith Headset Plus",
     "category": "Electronics",
-    "price": 44748,
+    "price": 12448,
     "stock_available": 25,
     "rating": 3.9,
     "review_count": 1162,
-    "description": "Designed with intuitive controls and efficient functionality, it enhances your digital experience.",
+    "description": "Enhanced headset offering rich audio and superior comfort.",
     "discount_percentage": 19,
     "return_eligible": true,
     "delivery_time_days": 7,
@@ -214,11 +214,11 @@
     "product_id": "P1017",
     "product_name": "Orion Drone",
     "category": "Electronics",
-    "price": 17057,
+    "price": 47057,
     "stock_available": 60,
     "rating": 4.0,
     "review_count": 1366,
-    "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
+    "description": "Advanced drone equipped with stabilization and high-resolution capture.",
     "return_eligible": true,
     "delivery_time_days": 5,
     "image_url": "https://images.pexels.com/photos/207583/pexels-photo-207583.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -227,11 +227,11 @@
     "product_id": "P1018",
     "product_name": "Nova Speaker Pro",
     "category": "Electronics",
-    "price": 28292,
+    "price": 8292,
     "stock_available": 94,
     "rating": 3.4,
     "review_count": 962,
-    "description": "Offering balanced sound quality and long battery life for entertainment and work.",
+    "description": "Versatile speaker delivering clear sound for music and media.",
     "return_eligible": true,
     "delivery_time_days": 7,
     "image_url": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -240,11 +240,11 @@
     "product_id": "P1019",
     "product_name": "Vortex Camera Plus",
     "category": "Electronics",
-    "price": 43970,
+    "price": 33970,
     "stock_available": 62,
     "rating": 3.3,
     "review_count": 410,
-    "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
+    "description": "A dependable camera designed for enthusiasts and everyday photography.",
     "return_eligible": true,
     "delivery_time_days": 10,
     "image_url": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -253,11 +253,11 @@
     "product_id": "P1020",
     "product_name": "Zenith Headset Lite",
     "category": "Electronics",
-    "price": 15289,
+    "price": 5289,
     "stock_available": 69,
     "rating": 4.7,
     "review_count": 751,
-    "description": "Combining sleek design with practical features, this gadget is a versatile choice.",
+    "description": "Affordable headset delivering dependable audio performance.",
     "discount_percentage": 32,
     "return_eligible": false,
     "delivery_time_days": 11,
@@ -265,13 +265,13 @@
   },
   {
     "product_id": "P1021",
-    "product_name": "Quanta Laptop",
+    "product_name": "Quanta Laptop Core",
     "category": "Electronics",
-    "price": 24022,
+    "price": 44022,
     "stock_available": 97,
     "rating": 2.6,
     "review_count": 1036,
-    "description": "Built to deliver dependable operation and user-friendly features in a compact form.",
+    "description": "Entry-level laptop built for everyday tasks and reliable usage.",
     "return_eligible": false,
     "delivery_time_days": 4,
     "image_url": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&fit=crop&w=800&q=80"
@@ -410,6 +410,7 @@
   {
     "product_id": "P1032",
     "product_name": "Breeze Denim Jacket Pro",
+    "category": "Clothing",
     "price": 4822,
     "stock_available": 36,
     "rating": 4.6,
@@ -422,6 +423,7 @@
   {
     "product_id": "P1033",
     "product_name": "Serene T-Shirt Pro",
+    "category": "Clothing",
     "price": 1600,
     "stock_available": 92,
     "rating": 5.0,
@@ -434,6 +436,7 @@
   {
     "product_id": "P1034",
     "product_name": "Vivid Dress Max",
+    "category": "Clothing",
     "price": 1291,
     "stock_available": 10,
     "rating": 3.7,
@@ -447,6 +450,7 @@
   {
     "product_id": "P1035",
     "product_name": "Vivid Dress Pro",
+    "category": "Clothing",
     "price": 948,
     "stock_available": 66,
     "rating": 3.5,
@@ -582,7 +586,7 @@
   },
   {
     "product_id": "P1045",
-    "product_name": "Serene T-Shirt Mini",
+    "product_name": "Serene T-Shirt Plus",
     "category": "Clothing",
     "price": 1615,
     "stock_available": 87,
@@ -621,7 +625,6 @@
     "delivery_time_days": 7,
     "image_url": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800"
   },
-
   {
     "product_id": "P1048",
     "product_name": "Nimbus Shirt",
@@ -673,11 +676,12 @@
     "review_count": 1078,
     "description": "A practical addition to your household that enhances your living space.",
     "return_eligible": true,
-    "delivery_time_days": 11
+    "delivery_time_days": 11,
+    "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800"
   },
   {
     "product_id": "P1052",
-    "product_name": "Nourish Cooker Mini",
+    "product_name": "Nourish Cooker Lite",
     "category": "Home & Kitchen",
     "price": 11789,
     "stock_available": 57,
@@ -686,7 +690,8 @@
     "description": "Offers reliable performance for your everyday household needs.",
     "discount_percentage": 49,
     "return_eligible": false,
-    "delivery_time_days": 7
+    "delivery_time_days": 7,
+    "image_url": "https://images.unsplash.com/photo-1585515656534-6d5e9c2c9c8f?w=800"
   },
   {
     "product_id": "P1053",
@@ -698,7 +703,8 @@
     "review_count": 1396,
     "description": "This item combines functionality with a sleek design to complement your home.",
     "return_eligible": false,
-    "delivery_time_days": 9
+    "delivery_time_days": 9,
+    "image_url": "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=800"
   },
   {
     "product_id": "P1054",
@@ -710,7 +716,8 @@
     "review_count": 910,
     "description": "Offers reliable performance for your everyday household needs.",
     "return_eligible": true,
-    "delivery_time_days": 6
+    "delivery_time_days": 6,
+    "image_url": "https://images.unsplash.com/photo-1585515656534-6d5e9c2c9c8f?w=800"
   },
   {
     "product_id": "P1055",
@@ -722,7 +729,8 @@
     "review_count": 123,
     "description": "Designed to make daily tasks easier, it offers durability and convenience.",
     "return_eligible": true,
-    "delivery_time_days": 15
+    "delivery_time_days": 15,
+    "image_url": "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=800"
   },
   {
     "product_id": "P1056",
@@ -735,7 +743,8 @@
     "description": "A practical addition to your household that enhances your living space.",
     "discount_percentage": 9,
     "return_eligible": true,
-    "delivery_time_days": 15
+    "delivery_time_days": 15,
+    "image_url": "https://images.unsplash.com/photo-1597055181300-e3633a917c9c?w=800"
   },
   {
     "product_id": "P1057",
@@ -747,11 +756,12 @@
     "review_count": 555,
     "description": "This item combines functionality with a sleek design to complement your home.",
     "return_eligible": false,
-    "delivery_time_days": 11
+    "delivery_time_days": 11,
+    "image_url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=800"
   },
   {
     "product_id": "P1058",
-    "product_name": "Nourish Cooker Plus",
+    "product_name": "Nourish Cooker Standard",
     "category": "Home & Kitchen",
     "price": 3088,
     "stock_available": 16,
@@ -759,7 +769,8 @@
     "review_count": 1271,
     "description": "A practical addition to your household that enhances your living space.",
     "return_eligible": false,
-    "delivery_time_days": 8
+    "delivery_time_days": 8,
+    "image_url": "https://images.unsplash.com/photo-1604908812174-55c3f2c5c6c0?w=800"
   },
   {
     "product_id": "P1059",
@@ -772,7 +783,8 @@
     "description": "This item combines functionality with a sleek design to complement your home.",
     "discount_percentage": 40,
     "return_eligible": true,
-    "delivery_time_days": 8
+    "delivery_time_days": 8,
+    "image_url": "https://images.unsplash.com/photo-1584990347449-a7f6d5b6f0d2?w=800"
   },
   {
     "product_id": "P1060",
@@ -784,7 +796,8 @@
     "review_count": 1255,
     "description": "This item combines functionality with a sleek design to complement your home.",
     "return_eligible": true,
-    "delivery_time_days": 6
+    "delivery_time_days": 6,
+    "image_url": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800"
   },
   {
     "product_id": "P1061",
@@ -797,7 +810,8 @@
     "description": "Crafted for efficiency and built to last, it suits any modern home.",
     "discount_percentage": 15,
     "return_eligible": true,
-    "delivery_time_days": 3
+    "delivery_time_days": 3,
+    "image_url": "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=800"
   },
   {
     "product_id": "P1062",
@@ -809,7 +823,8 @@
     "review_count": 844,
     "description": "A practical addition to your household that enhances your living space.",
     "return_eligible": true,
-    "delivery_time_days": 8
+    "delivery_time_days": 8,
+    "image_url": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=800"
   },
   {
     "product_id": "P1063",
@@ -821,7 +836,8 @@
     "review_count": 269,
     "description": "This item combines functionality with a sleek design to complement your home.",
     "return_eligible": false,
-    "delivery_time_days": 7
+    "delivery_time_days": 7,
+    "image_url": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=800"
   },
   {
     "product_id": "P1064",
@@ -833,7 +849,8 @@
     "review_count": 1477,
     "description": "A practical addition to your household that enhances your living space.",
     "return_eligible": true,
-    "delivery_time_days": 9
+    "delivery_time_days": 9,
+    "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800"
   },
   {
     "product_id": "P1065",
@@ -845,7 +862,8 @@
     "review_count": 1294,
     "description": "Crafted for efficiency and built to last, it suits any modern home.",
     "return_eligible": false,
-    "delivery_time_days": 13
+    "delivery_time_days": 13,
+    "image_url": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800"
   },
   {
     "product_id": "P1066",
@@ -858,7 +876,8 @@
     "description": "Crafted for efficiency and built to last, it suits any modern home.",
     "discount_percentage": 5,
     "return_eligible": true,
-    "delivery_time_days": 13
+    "delivery_time_days": 13,
+    "image_url": "https://images.unsplash.com/photo-1631125915902-d8abe9225ff2?w=800"
   },
   {
     "product_id": "P1067",
@@ -870,7 +889,8 @@
     "review_count": 549,
     "description": "This item combines functionality with a sleek design to complement your home.",
     "return_eligible": true,
-    "delivery_time_days": 6
+    "delivery_time_days": 6,
+    "image_url": "https://images.unsplash.com/photo-1626806787926-2c3c6f9b8d9b?w=800"
   },
   {
     "product_id": "P1068",
@@ -882,11 +902,12 @@
     "review_count": 1264,
     "description": "Offers reliable performance for your everyday household needs.",
     "return_eligible": false,
-    "delivery_time_days": 4
+    "delivery_time_days": 4,
+    "image_url": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800"
   },
   {
     "product_id": "P1069",
-    "product_name": "Savor Blender Mini",
+    "product_name": "Savor Blender Plus",
     "category": "Home & Kitchen",
     "price": 7943,
     "stock_available": 39,
@@ -895,7 +916,8 @@
     "description": "Offers reliable performance for your everyday household needs.",
     "discount_percentage": 35,
     "return_eligible": false,
-    "delivery_time_days": 5
+    "delivery_time_days": 5,
+    "image_url": "https://images.unsplash.com/photo-1570222094114-1dbb6e2f0d34?w=800"
   },
   {
     "product_id": "P1070",
@@ -907,11 +929,12 @@
     "review_count": 1122,
     "description": "Offers reliable performance for your everyday household needs.",
     "return_eligible": false,
-    "delivery_time_days": 10
+    "delivery_time_days": 10,
+    "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800"
   },
   {
     "product_id": "P1071",
-    "product_name": "Aura Curtains Mini",
+    "product_name": "Aura Curtains Lite",
     "category": "Home & Kitchen",
     "price": 9344,
     "stock_available": 80,
@@ -919,11 +942,12 @@
     "review_count": 1322,
     "description": "A practical addition to your household that enhances your living space.",
     "return_eligible": false,
-    "delivery_time_days": 3
+    "delivery_time_days": 3,
+    "image_url": "https://images.unsplash.com/photo-1484101403633-562f891dc89a?w=800"
   },
   {
     "product_id": "P1072",
-    "product_name": "Cascade Faucet Lite",
+    "product_name": "Cascade Faucet Standard",
     "category": "Home & Kitchen",
     "price": 8878,
     "stock_available": 47,
@@ -931,7 +955,8 @@
     "review_count": 411,
     "description": "A practical addition to your household that enhances your living space.",
     "return_eligible": true,
-    "delivery_time_days": 11
+    "delivery_time_days": 11,
+    "image_url": "https://images.unsplash.com/photo-1595514535215-8f0e9c4c7b67?w=800"
   },
   {
     "product_id": "P1073",
@@ -944,11 +969,12 @@
     "description": "Offers reliable performance for your everyday household needs.",
     "discount_percentage": 46,
     "return_eligible": true,
-    "delivery_time_days": 3
+    "delivery_time_days": 3,
+    "image_url": "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=800"
   },
   {
     "product_id": "P1074",
-    "product_name": "Cascade Faucet Pro",
+    "product_name": "Cascade Faucet Elite",
     "category": "Home & Kitchen",
     "price": 5916,
     "stock_available": 20,
@@ -956,11 +982,12 @@
     "review_count": 1287,
     "description": "This item combines functionality with a sleek design to complement your home.",
     "return_eligible": true,
-    "delivery_time_days": 6
+    "delivery_time_days": 6,
+    "image_url": "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=800"
   },
   {
     "product_id": "P1075",
-    "product_name": "Aura Curtains",
+    "product_name": "Aura Curtains Standard",
     "category": "Home & Kitchen",
     "price": 8489,
     "stock_available": 61,
@@ -969,7 +996,8 @@
     "description": "This item combines functionality with a sleek design to complement your home.",
     "discount_percentage": 26,
     "return_eligible": false,
-    "delivery_time_days": 9
+    "delivery_time_days": 9,
+    "image_url": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800"
   },
   {
     "product_id": "P1076",
@@ -981,7 +1009,8 @@
     "review_count": 1192,
     "description": "Offers a soothing experience that promotes a healthy look and feel.",
     "return_eligible": true,
-    "delivery_time_days": 7
+    "delivery_time_days": 7,
+    "image_url": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800"
   },
   {
     "product_id": "P1077",
@@ -994,7 +1023,8 @@
     "description": "Created with quality ingredients to nurture and protect your skin and hair.",
     "discount_percentage": 16,
     "return_eligible": false,
-    "delivery_time_days": 9
+    "delivery_time_days": 9,
+    "image_url": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800"
   },
   {
     "product_id": "P1078",
@@ -1006,7 +1036,8 @@
     "review_count": 226,
     "description": "Combines nourishing properties with a pleasant fragrance for daily care.",
     "return_eligible": true,
-    "delivery_time_days": 10
+    "delivery_time_days": 10,
+    "image_url": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800"
   },
   {
     "product_id": "P1079",
@@ -1018,7 +1049,8 @@
     "review_count": 345,
     "description": "Formulated to provide gentle care while delivering effective results.",
     "return_eligible": false,
-    "delivery_time_days": 7
+    "delivery_time_days": 7,
+    "image_url": "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?w=800"
   },
   {
     "product_id": "P1080",
@@ -1030,7 +1062,8 @@
     "review_count": 91,
     "description": "Offers a soothing experience that promotes a healthy look and feel.",
     "return_eligible": false,
-    "delivery_time_days": 2
+    "delivery_time_days": 2,
+    "image_url": "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137?w=800"
   },
   {
     "product_id": "P1081",
@@ -1042,7 +1075,8 @@
     "review_count": 1172,
     "description": "This product is designed to rejuvenate and refresh with regular use.",
     "return_eligible": false,
-    "delivery_time_days": 3
+    "delivery_time_days": 3,
+    "image_url": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800"
   },
   {
     "product_id": "P1082",
@@ -1054,7 +1088,8 @@
     "review_count": 1568,
     "description": "Created with quality ingredients to nurture and protect your skin and hair.",
     "return_eligible": true,
-    "delivery_time_days": 3
+    "delivery_time_days": 3,
+    "image_url": "https://images.unsplash.com/photo-1631214540242-6d6c7b2c5e63?w=800"
   },
   {
     "product_id": "P1083",
@@ -1067,7 +1102,8 @@
     "description": "This product is designed to rejuvenate and refresh with regular use.",
     "discount_percentage": 50,
     "return_eligible": true,
-    "delivery_time_days": 15
+    "delivery_time_days": 15,
+    "image_url": "https://images.unsplash.com/photo-1601049676869-702ea24cfd58?w=800"
   },
   {
     "product_id": "P1084",
@@ -1080,7 +1116,8 @@
     "description": "This product is designed to rejuvenate and refresh with regular use.",
     "discount_percentage": 27,
     "return_eligible": false,
-    "delivery_time_days": 10
+    "delivery_time_days": 10,
+    "image_url": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=800"
   },
   {
     "product_id": "P1085",
@@ -1092,7 +1129,8 @@
     "review_count": 871,
     "description": "Formulated to provide gentle care while delivering effective results.",
     "return_eligible": false,
-    "delivery_time_days": 8
+    "delivery_time_days": 8,
+    "image_url": "https://images.unsplash.com/photo-1619451334792-150fd785ee74?w=800"
   },
   {
     "product_id": "P1086",
@@ -1104,7 +1142,8 @@
     "review_count": 1055,
     "description": "Combines nourishing properties with a pleasant fragrance for daily care.",
     "return_eligible": false,
-    "delivery_time_days": 4
+    "delivery_time_days": 4,
+    "image_url": "https://images.unsplash.com/photo-1626015365106-4c0c8a3c6d32?w=800"
   },
   {
     "product_id": "P1087",
@@ -1116,11 +1155,12 @@
     "review_count": 1159,
     "description": "This product is designed to rejuvenate and refresh with regular use.",
     "return_eligible": false,
-    "delivery_time_days": 4
+    "delivery_time_days": 4,
+    "image_url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800"
   },
   {
     "product_id": "P1088",
-    "product_name": "Bloom Lip Balm",
+    "product_name": "Bloom Lip Balm Classic",
     "category": "Beauty & Personal Care",
     "price": 105,
     "stock_available": 99,
@@ -1129,7 +1169,8 @@
     "description": "Created with quality ingredients to nurture and protect your skin and hair.",
     "discount_percentage": 6,
     "return_eligible": true,
-    "delivery_time_days": 9
+    "delivery_time_days": 9,
+    "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=800"
   },
   {
     "product_id": "P1089",
@@ -1141,7 +1182,8 @@
     "review_count": 205,
     "description": "Formulated to provide gentle care while delivering effective results.",
     "return_eligible": true,
-    "delivery_time_days": 7
+    "delivery_time_days": 7,
+    "image_url": "https://images.unsplash.com/photo-1556228724-4f3b9f8d7d19?w=800"
   },
   {
     "product_id": "P1090",
@@ -1153,32 +1195,8 @@
     "review_count": 433,
     "description": "Combines nourishing properties with a pleasant fragrance for daily care.",
     "return_eligible": false,
-    "delivery_time_days": 2
-  },
-  {
-    "product_id": "P1091",
-    "product_name": "Bloom Lip Balm",
-    "category": "Beauty & Personal Care",
-    "price": 2473,
-    "stock_available": 37,
-    "rating": 3.8,
-    "review_count": 16,
-    "description": "Combines nourishing properties with a pleasant fragrance for daily care.",
-    "discount_percentage": 36,
-    "return_eligible": false,
-    "delivery_time_days": 4
-  },
-  {
-    "product_id": "P1092",
-    "product_name": "Serenity Soap Lite",
-    "category": "Beauty & Personal Care",
-    "price": 3841,
-    "stock_available": 93,
-    "rating": 3.7,
-    "review_count": 694,
-    "description": "Offers a soothing experience that promotes a healthy look and feel.",
-    "return_eligible": false,
-    "delivery_time_days": 6
+    "delivery_time_days": 2,
+    "image_url": "https://images.unsplash.com/photo-1584305574647-0cc949a2bb9f?w=800"
   },
   {
     "product_id": "P1093",
@@ -1190,19 +1208,8 @@
     "review_count": 920,
     "description": "Combines nourishing properties with a pleasant fragrance for daily care.",
     "return_eligible": false,
-    "delivery_time_days": 10
-  },
-  {
-    "product_id": "P1094",
-    "product_name": "Aroma Shampoo Pro",
-    "category": "Beauty & Personal Care",
-    "price": 3126,
-    "stock_available": 82,
-    "rating": 4.0,
-    "review_count": 284,
-    "description": "Created with quality ingredients to nurture and protect your skin and hair.",
-    "return_eligible": false,
-    "delivery_time_days": 13
+    "delivery_time_days": 10,
+    "image_url": "https://images.unsplash.com/photo-1607602132700-068258bd63a3?w=800"
   },
   {
     "product_id": "P1095",
@@ -1214,7 +1221,8 @@
     "review_count": 172,
     "description": "Created with quality ingredients to nurture and protect your skin and hair.",
     "return_eligible": true,
-    "delivery_time_days": 11
+    "delivery_time_days": 11,
+    "image_url": "https://images.unsplash.com/photo-1615634262417-0c65dff0c9b9?w=800"
   },
   {
     "product_id": "P1096",
@@ -1226,19 +1234,8 @@
     "review_count": 665,
     "description": "Combines nourishing properties with a pleasant fragrance for daily care.",
     "return_eligible": false,
-    "delivery_time_days": 5
-  },
-  {
-    "product_id": "P1097",
-    "product_name": "Essence Foundation Plus",
-    "category": "Beauty & Personal Care",
-    "price": 2157,
-    "stock_available": 78,
-    "rating": 4.4,
-    "review_count": 1309,
-    "description": "Created with quality ingredients to nurture and protect your skin and hair.",
-    "return_eligible": false,
-    "delivery_time_days": 9
+    "delivery_time_days": 5,
+    "image_url": "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137?w=800"
   },
   {
     "product_id": "P1098",
@@ -1250,7 +1247,8 @@
     "review_count": 406,
     "description": "This product is designed to rejuvenate and refresh with regular use.",
     "return_eligible": true,
-    "delivery_time_days": 9
+    "delivery_time_days": 9,
+    "image_url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800"
   },
   {
     "product_id": "P1099",
@@ -1262,7 +1260,8 @@
     "review_count": 573,
     "description": "Combines nourishing properties with a pleasant fragrance for daily care.",
     "return_eligible": true,
-    "delivery_time_days": 6
+    "delivery_time_days": 6,
+    "image_url": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800"
   },
   {
     "product_id": "P1100",
@@ -1275,7 +1274,8 @@
     "description": "Created with quality ingredients to nurture and protect your skin and hair.",
     "discount_percentage": 5,
     "return_eligible": true,
-    "delivery_time_days": 7
+    "delivery_time_days": 7,
+    "image_url": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=800"
   },
   {
     "product_id": "P1101",
@@ -1287,7 +1287,8 @@
     "review_count": 999,
     "description": "Built for endurance and comfort, helping you stay motivated on your fitness journey.",
     "return_eligible": true,
-    "delivery_time_days": 6
+    "delivery_time_days": 6,
+    "image_url": "https://images.unsplash.com/photo-1571019613914-85f342c55f5e?w=800"
   },
   {
     "product_id": "P1102",
@@ -1299,7 +1300,8 @@
     "review_count": 17,
     "description": "This item enhances performance and provides comfort during workouts.",
     "return_eligible": true,
-    "delivery_time_days": 12
+    "delivery_time_days": 12,
+    "image_url": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800"
   },
   {
     "product_id": "P1103",
@@ -1311,7 +1313,8 @@
     "review_count": 1189,
     "description": "This item enhances performance and provides comfort during workouts.",
     "return_eligible": false,
-    "delivery_time_days": 2
+    "delivery_time_days": 2,
+    "image_url": "https://images.unsplash.com/photo-1508873699372-7aeab60b44ab?w=800"
   },
   {
     "product_id": "P1104",
@@ -1323,7 +1326,8 @@
     "review_count": 190,
     "description": "Designed to support your active lifestyle with durable materials.",
     "return_eligible": true,
-    "delivery_time_days": 4
+    "delivery_time_days": 4,
+    "image_url": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=800"
   },
   {
     "product_id": "P1105",
@@ -1336,7 +1340,8 @@
     "description": "This item enhances performance and provides comfort during workouts.",
     "discount_percentage": 16,
     "return_eligible": true,
-    "delivery_time_days": 6
+    "delivery_time_days": 6,
+    "image_url": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800"
   },
   {
     "product_id": "P1106",
@@ -1348,7 +1353,8 @@
     "review_count": 35,
     "description": "Offers stability and support, making it ideal for both beginners and professionals.",
     "return_eligible": true,
-    "delivery_time_days": 8
+    "delivery_time_days": 8,
+    "image_url": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=800"
   },
   {
     "product_id": "P1107",
@@ -1360,7 +1366,8 @@
     "review_count": 934,
     "description": "This item enhances performance and provides comfort during workouts.",
     "return_eligible": false,
-    "delivery_time_days": 5
+    "delivery_time_days": 5,
+    "image_url": "https://images.unsplash.com/photo-1518655048521-f130df041f66?w=800"
   },
   {
     "product_id": "P1108",
@@ -1373,7 +1380,8 @@
     "description": "A reliable companion for training routines, suited for various fitness levels.",
     "discount_percentage": 50,
     "return_eligible": false,
-    "delivery_time_days": 12
+    "delivery_time_days": 12,
+    "image_url": "https://images.unsplash.com/photo-1547447134-cd3f5c716030?w=800"
   },
   {
     "product_id": "P1109",
@@ -1385,7 +1393,8 @@
     "review_count": 812,
     "description": "This item enhances performance and provides comfort during workouts.",
     "return_eligible": true,
-    "delivery_time_days": 15
+    "delivery_time_days": 15,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800"
   },
   {
     "product_id": "P1110",
@@ -1397,7 +1406,8 @@
     "review_count": 1145,
     "description": "Built for endurance and comfort, helping you stay motivated on your fitness journey.",
     "return_eligible": false,
-    "delivery_time_days": 12
+    "delivery_time_days": 12,
+    "image_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800"
   },
   {
     "product_id": "P1111",
@@ -1409,11 +1419,12 @@
     "review_count": 154,
     "description": "A reliable companion for training routines, suited for various fitness levels.",
     "return_eligible": false,
-    "delivery_time_days": 10
+    "delivery_time_days": 10,
+    "image_url": "https://images.unsplash.com/photo-1601924582975-7e0b4c1a07a2?w=800"
   },
   {
     "product_id": "P1112",
-    "product_name": "Stride Running Shoes Lite",
+    "product_name": "Stride Running Shoes Pro",
     "category": "Sports & Fitness",
     "price": 16368,
     "stock_available": 66,
@@ -1421,7 +1432,8 @@
     "review_count": 368,
     "description": "Offers stability and support, making it ideal for both beginners and professionals.",
     "return_eligible": false,
-    "delivery_time_days": 3
+    "delivery_time_days": 3,
+    "image_url": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800"
   },
   {
     "product_id": "P1113",
@@ -1433,11 +1445,12 @@
     "review_count": 1468,
     "description": "This item enhances performance and provides comfort during workouts.",
     "return_eligible": false,
-    "delivery_time_days": 5
+    "delivery_time_days": 5,
+    "image_url": "https://images.unsplash.com/photo-1528701800489-20be9c4f7a61?w=800"
   },
   {
     "product_id": "P1114",
-    "product_name": "Pulse Fitness Tracker",
+    "product_name": "Pulse Fitness Tracker Pro",
     "category": "Sports & Fitness",
     "price": 4924,
     "stock_available": 38,
@@ -1446,7 +1459,8 @@
     "description": "Offers stability and support, making it ideal for both beginners and professionals.",
     "discount_percentage": 31,
     "return_eligible": false,
-    "delivery_time_days": 10
+    "delivery_time_days": 10,
+    "image_url": "https://images.unsplash.com/photo-1510017803434-a899398421b3?w=800"
   },
   {
     "product_id": "P1115",
@@ -1458,7 +1472,8 @@
     "review_count": 127,
     "description": "Designed to support your active lifestyle with durable materials.",
     "return_eligible": true,
-    "delivery_time_days": 2
+    "delivery_time_days": 2,
+    "image_url": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=800"
   },
   {
     "product_id": "P1116",
@@ -1470,7 +1485,8 @@
     "review_count": 1008,
     "description": "This item enhances performance and provides comfort during workouts.",
     "return_eligible": false,
-    "delivery_time_days": 13
+    "delivery_time_days": 13,
+    "image_url": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800"
   },
   {
     "product_id": "P1117",
@@ -1483,7 +1499,8 @@
     "description": "Offers stability and support, making it ideal for both beginners and professionals.",
     "discount_percentage": 32,
     "return_eligible": false,
-    "delivery_time_days": 11
+    "delivery_time_days": 11,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800"
   },
   {
     "product_id": "P1118",
@@ -1495,11 +1512,12 @@
     "review_count": 309,
     "description": "A reliable companion for training routines, suited for various fitness levels.",
     "return_eligible": true,
-    "delivery_time_days": 9
+    "delivery_time_days": 9,
+    "image_url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?w=800"
   },
   {
     "product_id": "P1119",
-    "product_name": "Summit Backpack Lite",
+    "product_name": "Summit Backpack Pro",
     "category": "Sports & Fitness",
     "price": 16551,
     "stock_available": 89,
@@ -1508,11 +1526,12 @@
     "description": "Built for endurance and comfort, helping you stay motivated on your fitness journey.",
     "discount_percentage": 30,
     "return_eligible": true,
-    "delivery_time_days": 3
+    "delivery_time_days": 3,
+    "image_url": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?w=800"
   },
   {
     "product_id": "P1120",
-    "product_name": "Stride Running Shoes Plus",
+    "product_name": "Stride Running Shoes Ultra",
     "category": "Sports & Fitness",
     "price": 9256,
     "stock_available": 36,
@@ -1521,7 +1540,8 @@
     "description": "This item enhances performance and provides comfort during workouts.",
     "discount_percentage": 28,
     "return_eligible": false,
-    "delivery_time_days": 15
+    "delivery_time_days": 15,
+    "image_url": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=800"
   },
   {
     "product_id": "P1121",
@@ -1533,7 +1553,8 @@
     "review_count": 1428,
     "description": "A reliable companion for training routines, suited for various fitness levels.",
     "return_eligible": true,
-    "delivery_time_days": 13
+    "delivery_time_days": 13,
+    "image_url": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800"
   },
   {
     "product_id": "P1122",
@@ -1545,11 +1566,12 @@
     "review_count": 64,
     "description": "This item enhances performance and provides comfort during workouts.",
     "return_eligible": true,
-    "delivery_time_days": 6
+    "delivery_time_days": 6,
+    "image_url": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=800"
   },
   {
     "product_id": "P1123",
-    "product_name": "Core Exercise Ball",
+    "product_name": "Core Exercise Ball Pro",
     "category": "Sports & Fitness",
     "price": 14551,
     "stock_available": 10,
@@ -1557,7 +1579,8 @@
     "review_count": 6,
     "description": "Designed to support your active lifestyle with durable materials.",
     "return_eligible": true,
-    "delivery_time_days": 6
+    "delivery_time_days": 6,
+    "image_url": "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=800"
   },
   {
     "product_id": "P1124",
@@ -1569,7 +1592,8 @@
     "review_count": 952,
     "description": "This item enhances performance and provides comfort during workouts.",
     "return_eligible": false,
-    "delivery_time_days": 7
+    "delivery_time_days": 7,
+    "image_url": "https://images.unsplash.com/photo-1597452485677-d6618a44d9e1?w=800"
   },
   {
     "product_id": "P1125",
@@ -1581,6 +1605,7 @@
     "review_count": 1014,
     "description": "Built for endurance and comfort, helping you stay motivated on your fitness journey.",
     "return_eligible": true,
-    "delivery_time_days": 4
+    "delivery_time_days": 4,
+    "image_url": "https://images.unsplash.com/photo-1547447134-3d4c5a19a6ff?w=800"
   }
 ]
